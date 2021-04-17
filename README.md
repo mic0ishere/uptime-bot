@@ -22,7 +22,7 @@ Download ZIP file from https://github.com/Diffuse-Network/uptime-bot/releases, u
 
 **NOTIFICATIONS_CHANNEL** - Channel where all notifications about monitors will be sent
 
-**STATUS_CHANNEL** - Channel where status message of your all monitors will be sent (like status page https://status.mic0.me/)
+**STATUS_CHANNEL** - Channel where status message of all your monitors will be sent
 
 ### Authors 
 
