@@ -1,9 +1,8 @@
-<h1 align="center">UPTIME-BOT</h1>
-<h3 align="center">Open-source bot which will notify about status of yours Uptimerobot's monitors</h3>
+# uptime-bot
 
-### Installation
+Open-source bot which will notify about status of yours Uptimerobot's monitors
 
-Download ZIP file from https://github.com/Diffuse-Network/uptime-bot/releases, unzip it and follow steps in Configuration section
+Licensed under [MIT](/LICENSE) license
 
 ### Configuration
 
@@ -18,16 +17,6 @@ Download ZIP file from https://github.com/Diffuse-Network/uptime-bot/releases, u
 9. Install packages via yarn (just run `yarn install` in directory)
 10. Run your bot with `yarn start`
 
-### Channels
-
-**NOTIFICATIONS_CHANNEL** - Channel where all notifications about monitors will be sent
-
-**STATUS_CHANNEL** - Channel where status message of all your monitors will be sent
-
-### Authors 
-
-* mic0 - CTO @ Diffuse Network
-* Remixiak - CEO @ Diffuse Network 
-
-### LICENSE
-MIT - See [LICENSE](/LICENSE) file
+NOTIFICATIONS_CHANNEL - Channel where all notifications about monitors will be sent
+<br/>
+STATUS_CHANNEL - Channel where status message of all your monitors will be sent
