@@ -1,7 +1,7 @@
 {
   "name": "uptime-bot",
-  "version": "0.9.0",
-  "author": "Diffuse Network/mic0",
+  "version": "1.0.0",
+  "author": "Diffuse Network, Jack/mic0 <jack@mic0.me>",
   "license": "MIT",
   "main": "index.js",
   "type": "module",
